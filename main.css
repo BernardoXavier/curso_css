@@ -3,6 +3,7 @@
 			margin:0; 
 			padding:0;
 		}
+		header {}
 		#div_esquerda{
 			background-color: red;
                         width: 100px;
