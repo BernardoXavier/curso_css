@@ -8,7 +8,7 @@
             padding: 10px;
 }
         @font-face {
-            font-family: starjedi, calibri;
+            font-family: starjedi;
             src: url('starjedi.ttf');
 }
         footer{
@@ -24,7 +24,7 @@
 }
         h1{
             color: #ff0000;
-            font-family: starjedi;
+            font-family: starjedi, calibri
             text-shadow: 1px 1px 1px #111111;
             text-align:center;
             font-size:50px;
